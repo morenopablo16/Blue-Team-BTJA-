@@ -1,0 +1,17 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de Obsidian
+.obsidian/
+.obsidian/workspace.json
+.obsidian/cache/
+
+# Archivos de configuración local
+*.local
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+~$*
