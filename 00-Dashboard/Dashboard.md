@@ -22,13 +22,13 @@
 
 ## 📊 Module Status
 
-| Module                        | Status      | Key Files                                                                                                                                                                                                                                                                                                                   |
-| ----------------------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **01-OSINT**                  | Not Started |                                                                                                                                                                                                                                                                                                                             |
+| Module                        | Status    | Key Files                                                                                                                                                                                                                                                                                                                   |
+| ----------------------------- | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **01-OSINT**                  | ✅ **COMPLETED** | [[01-OSINT/Theory/01_introduccion\|Introduction]], [[01-OSINT/Theory/02_inteligence_cycle\|Intelligence Cycle]], [[01-OSINT/Theory/03_Securing_Yourself_Online\|Online Security]], [[01-OSINT/Theory/04_Tools_and_Services\|Tools & Services]], [[01-OSINT/Labs/Course Capstone\|Course Capstone Lab]] |
 | **02-Vulnerability-Management** | Not Started |                                                                                                                                                                                                                                                                                                                             |
 | **03-Threat-Hunting**         | Not Started |                                                                                                                                                                                                                                                                                                                             |
 | **04-Network-Analysis**       | Not Started |                                                                                                                                                                                                                                                                                                                             |
-| **05-Digital-Forensics**      | Done        | [[05-Digital-Forensics/Theory/01-introduction\|Introduction]], [[05-Digital-Forensics/Theory/02-digital-evidence\|Evidence]], [[05-Digital-Forensics/Theory/03-linux-cli\|Linux CLI]], [[05-Digital-Forensics/Theory/04-steganography\|Steganography]], [[05-Digital-Forensics/Theory/05-cracking-zip-files\|ZIP Cracking]] |
+| **05-Digital-Forensics**      | ✅ **COMPLETED** | [[05-Digital-Forensics/Theory/01-introduction\|Introduction]], [[05-Digital-Forensics/Theory/02-digital-evidence\|Evidence]], [[05-Digital-Forensics/Theory/03-linux-cli\|Linux CLI]], [[05-Digital-Forensics/Theory/04-steganography\|Steganography]], [[05-Digital-Forensics/Theory/05-cracking-zip-files\|ZIP Cracking]] |
 | **06-Dark-Web-Operations**   | Not Started |                                                                                                                                                                                                                                                                                                                             |
 
 ---
@@ -47,9 +47,11 @@
 - **Password Recovery**: Completed labs
 
 ### OSINT & Intelligence
-- **Search Techniques**: Not started
-- **Source Verification**: Not started
-- **Social Media Intelligence**: Not started
+- **Search Techniques**: ✅ **COMPLETED** - Google Dorks, social media, advanced search operators
+- **Source Verification**: ✅ **COMPLETED** - Multi-source correlation, information validation
+- **Social Media Intelligence**: ✅ **COMPLETED** - TweetDeck monitoring, profile analysis
+- **Tool Proficiency**: ✅ **COMPLETED** - TheHarvester, Maltego, TinEye, reverse image search
+- **Investigation Methodology**: ✅ **COMPLETED** - Intelligence cycle, OPSEC, evidence collection
 
 ### Vulnerability Management
 - **Risk Assessment**: Not started
@@ -87,7 +89,7 @@
 
 ---
 
-*Last Updated: September 26, 2025*
+*Last Updated: September 26, 2025* - ✅ **OSINT Module Completed**
 
 ---
 tags: #dashboard #btja #blueteam 
