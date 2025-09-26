@@ -62,24 +62,24 @@ Analyze a forensic disk image to locate four pieces of hidden evidence using the
 
 Evidence 1/4
 - File: hidden zip `.a0415ns.zip` (contains a text file named `employee dump`)
-- ![[Pasted image 20250925193357.png]]
+- ![[Assets/Pasted image 20250925193357.png]]
 - Directory: `to-do`
 
 We can get the password using john the ripper
 
-![[Pasted image 20250925193520.png]]
+![[Assets/Pasted image 20250925193520.png]]
 
 - Artifact type: Employee personal information discovered inside the extracted `employee dump` text file.
 
 
-![[Pasted image 20250925193617.png]]
+![[Assets/Pasted image 20250925193617.png]]
 
 
 
 Evidence 2/4
 - File: `laptop.jpg` (stegofile containing an embedded file named `passwords`)
 
-![[Pasted image 20250925195319.png]]
+![[Assets/Pasted image 20250925195319.png]]
 
 
 - Directory: `Images`
@@ -94,7 +94,7 @@ Evidence 4/4
 - File: `bootstrap.min.abc` (misleading extension; contains text)
 
 
-![[Pasted image 20250925195853.png]]
+![[Assets/Pasted image 20250925195853.png]]
 
 
 - Directory: `css`

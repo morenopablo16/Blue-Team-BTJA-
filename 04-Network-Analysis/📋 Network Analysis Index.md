@@ -1,17 +1,35 @@
-# 📊 SBT SIEM Operations - Course Walkthrough
+# 📊 SBT Network Analysis - Course Walkthrough
 
-> **Security Blue Team - SIEM Operations Module**  
-> Security Information and Event Management
+> **Security Blue Team - Network Analysis Module**  
+> Network traffic analysis and monitoring techniques
 
 ---
 
 ## 📚 **Course Overview**
 
-**Module Focus**: SIEM platform administration and security monitoring
+**Module Focus**: Network traffic analysis and monitoring techniques
 - **Total Topics**: TBD
-- **Total Labs**: TBD
-- **Practical Exercises**: Real-world SIEM scenarios
+- **Total Labs**: TBD  
+- **Practical Exercises**: Network analysis scenarios
 - **Certificate**: Part of BTJA certification
+
+**Progress:** 0% | **Status:** Not Started | **Time Invested:** 0 hours
+
+---
+
+## 🎯 **Module Structure**
+
+### 📖 **Theory**
+- [ ] **01:** Network protocols and traffic fundamentals
+- [ ] **02:** Packet analysis techniques
+- [ ] **03:** Network monitoring strategies
+- [ ] **04:** Anomaly detection methods
+- [ ] **05:** Network forensics
+
+### 🧪 **Labs**
+- [ ] **Lab 01:** Packet capture analysis
+- [ ] **Lab 02:** Network anomaly detection
+- [ ] **Lab 03:** Traffic flow investigation
 
 ---
 

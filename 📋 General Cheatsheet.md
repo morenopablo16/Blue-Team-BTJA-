@@ -4,7 +4,64 @@
 
 ---
 
-## 🔍 **Threat Hunting**
+## 🔍 **OSINT**
+
+### Search Operators
+```
+# Google Dorks
+site:example.com filetype:pdf
+inurl:admin intitle:login
+cache:example.com
+"exact phrase search"
+
+# Social Media
+site:linkedin.com "company name"
+site:twitter.com "keyword"
+```
+
+### Domain Intelligence
+```bash
+# WHOIS lookup
+whois example.com
+
+# DNS enumeration
+dig example.com ANY
+nslookup example.com
+
+# Subdomain discovery
+./subfinder -d example.com
+```
+
+---
+
+## ⚡ **Vulnerability Management**
+
+### Vulnerability Scanning
+```bash
+# Nmap vulnerability scan
+nmap --script vuln target_ip
+
+# Nikto web scanner
+nikto -h http://target.com
+
+# OpenVAS scan
+openvas-cli -T xml -i targets.xml
+```
+
+### Patch Management
+```bash
+# Windows update status
+Get-WindowsUpdate
+wuauclt /detectnow
+
+# Linux package updates
+apt list --upgradable
+yum check-update
+```
+
+---
+
+## 🔎 **Threat Hunting**
 
 ### Comandos Básicos Windows
 ```cmd
@@ -32,7 +89,71 @@ Get-NetTCPConnection | Select LocalAddress,LocalPort,RemoteAddress,RemotePort,St
 
 ---
 
-## 🎭 **Threat Emulation**
+## 📊 **Network Analysis**
+
+### Wireshark Filters
+```
+# HTTP traffic
+http
+
+# DNS queries
+dns
+
+# Suspicious traffic
+tcp.flags.syn==1 and tcp.flags.ack==0
+
+# Large data transfers
+frame.len > 1000
+```
+
+### Netstat Commands
+```bash
+# Active connections
+netstat -ano | findstr ESTABLISHED
+
+# Listening ports
+netstat -an | findstr LISTENING
+
+# Process associated with ports
+netstat -b
+```
+
+### Traffic Analysis
+```bash
+# TCPdump capture
+tcpdump -i eth0 -w capture.pcap
+
+# Tshark analysis
+tshark -r capture.pcap -Y "http.request"
+
+# Network statistics
+netstat -i
+ss -tuln
+```
+
+---
+
+## 🌐 **Dark Web Operations**
+
+### Tor Network
+```bash
+# Tor browser setup
+# Download from: https://www.torproject.org
+
+# Onion service discovery
+# Use specialized search engines
+# Hidden wiki access
+```
+
+### OPSEC Best Practices
+- **Never download files**
+- **Disable JavaScript**
+- **Use VPN + Tor**
+- **Regular browser updates**
+
+---
+
+## 🎭 **Legacy: Threat Emulation Content**
 
 ### MITRE ATT&CK Tactics
 - **Initial Access**: T1566 (Phishing)
@@ -51,7 +172,7 @@ Invoke-AtomicTest T1566.001
 
 ---
 
-## 🦠 **Malware Analysis**
+## 🦠 **Legacy: Malware Analysis**
 
 ### Análisis Estático
 ```bash
@@ -73,7 +194,7 @@ sha256sum sample.exe
 
 ---
 
-## 📊 **SIEM Operations**
+## 📊 **Legacy: SIEM Operations**
 
 ### Splunk SPL Básico
 ```spl
@@ -133,33 +254,6 @@ volatility -f memory.dmp --profile=Win7SP1x64 printkey -K "Software\Microsoft\Wi
 ---
 
 ## 🌐 **Network Analysis**
-
-### Wireshark Filters
-```
-# HTTP traffic
-http
-
-# DNS queries
-dns
-
-# Suspicious traffic
-tcp.flags.syn==1 and tcp.flags.ack==0
-
-# Large data transfers
-frame.len > 1000
-```
-
-### Netstat Commands
-```bash
-# Active connections
-netstat -ano | findstr ESTABLISHED
-
-# Listening ports
-netstat -an | findstr LISTENING
-
-# Process associated with ports
-netstat -b
-```
 
 ---
 
