@@ -1,7 +1,6 @@
-# 📝 [Topic Name]
+# 📝 <% _t %>
 
-
-**Module**: <%* const _m = await tp.system.prompt("Module name (e.g. Digital Forensics)"); %><% _m %> | **Date**: <% tp.date.now("YYYY-MM-DD") %>
+**Module**: <% _m %> | **Date**: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
@@ -29,4 +28,9 @@
 
 ---
 
-#theory #[module]
+#theory #<% _m.toLowerCase().replace(/\s+/g, '-') %>
+<%* 
+const _t = await tp.system.prompt("Topic name (e.g. OSINT Fundamentals)"); 
+const _m = await tp.system.prompt("Module name (e.g. OSINT)"); 
+await tp.file.rename(_t);
+%>
