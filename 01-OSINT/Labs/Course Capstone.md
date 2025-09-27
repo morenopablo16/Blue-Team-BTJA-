@@ -84,18 +84,18 @@ Investigate person-of-interest (@sp1ritfyre) believed to be associated with hack
 - Found a link that seems to be Base64 encoded string in bio: 
 - https://t.co/M3KiW4ZSbd
 
-![[Assets/Pasted image 20250926191543.png]]
+![](../../Assets/Pasted%20image%2020250926191543.png)
 
 It seems to go nowhere
 
 But if we use a base 64 decoder on that url we get this website `redhunt.net`
 
-![[Assets/Pasted image 20250926194416.png]]
+![](../../Assets/Pasted%20image%2020250926194416.png)
 
 
 The we looked up on google the actual address @sp1ritfyre and we found out a blogger account
 
-![[Assets/Pasted image 20250926191650.png]]
+![](../../Assets/Pasted%20image%2020250926191650.png)
 
 - Profile contains suspicious encoded data that needs decoding on the location field
 
@@ -118,7 +118,7 @@ The we looked up on google the actual address @sp1ritfyre and we found out a blo
 
 
 
-![[Assets/Pasted image 20250926191850.png]]
+![](../../Assets/Pasted%20image%2020250926191850.png)
 
 **Key Discovery**:
 - Decoded Base64 reveals: `https://sammiewoodsec.blogspot.com/`
@@ -142,10 +142,10 @@ The we looked up on google the actual address @sp1ritfyre and we found out a blo
 5. Build comprehensive personal profile
 
 
-![[Assets/Pasted image 20250926192519.png]]
+![](../../Assets/Pasted%20image%2020250926192519.png)
 
 
-![[Assets/Pasted image 20250926192459.png]]
+![](../../Assets/Pasted%20image%2020250926192459.png)
 
 **Key Discoveries From Blogs**:
 - **Real Name**: Sam Woods
@@ -170,7 +170,7 @@ The we looked up on google the actual address @sp1ritfyre and we found out a blo
 **Key Discoveries**:
 - Email 1:d1ved33p@gmail.com
 
-![[Assets/Pasted image 20250926190822.png]]
+![](../../Assets/Pasted%20image%2020250926190822.png)
 
 Found in the blog he had an email that can be extracted with the Developer tools of the website
 
