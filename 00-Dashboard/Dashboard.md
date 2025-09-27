@@ -7,29 +7,29 @@
 ## 🎯 Quick Navigation
 
 ### Core Learning Modules
-- [[01-OSINT/Theory|🔍 OSINT]]
-- [[02-Vulnerability-Management/Theory|⚡ Vulnerability Management]]
-- [[03-Threat-Hunting/Theory|🔎 Threat Hunting]]
-- [[04-Network-Analysis/Theory|📊 Network Analysis]]
-- [[05-Digital-Forensics/Theory|🔬 Digital Forensics]]
-- [[06-Dark-Web-Operations/Theory|🌐 Dark Web Operations]]
+- [🔍 OSINT](01-OSINT/)
+- [⚡ Vulnerability Management](02-Vulnerability-Management/)
+- [🔎 Threat Hunting](03-Threat-Hunting/)
+- [📊 Network Analysis](04-Network-Analysis/)
+- [🔬 Digital Forensics](05-Digital-Forensics/)
+- [🌐 Dark Web Operations](06-Dark-Web-Operations/)
 
 ### Resources
-- [[Templates/Theory Notes Template|📝 Theory Notes Template]]
-- [[Templates/Lab Walkthrough Template|🧪 Lab Walkthrough Template]]
+- [📝 Theory Notes Template](Templates/📝%20Theory%20Notes%20Template.md)
+- [🧪 Lab Walkthrough Template](Templates/🧪%20Lab%20Walkthrough%20Template.md)
 
 ---
 
 ## 📊 Module Status
 
-| Module                          | Status          | Key Files                                                                                                                                                                                                                                                                                                                      |
-| ------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **01-OSINT**                    | ✅ **COMPLETED** | [[01-OSINT/Theory/01_introduccion\|Introduction]], [[01-OSINT/Theory/02_inteligence_cycle\|Intelligence Cycle]], [[01-OSINT/Theory/03_Securing_Yourself_Online\|Online Security]], [[01-OSINT/Theory/04_Tools_and_Services\|Tools & Services]], [[01-OSINT/Labs/Course Capstone\|Course Capstone Lab]]                         |
-| **02-Vulnerability-Management** | Not Started     |                                                                                                                                                                                                                                                                                                                                |
-| **03-Threat-Hunting**           | Not Started     |                                                                                                                                                                                                                                                                                                                                |
-| **04-Network-Analysis**         | Not Started     |                                                                                                                                                                                                                                                                                                                                |
-| **05-Digital-Forensics**        | ✅ **COMPLETED** | [[05-Digital-Forensics/Theory/01-introduction\|Introduction]], [[05-Digital-Forensics/Theory/02-digital-evidence\|Evidence]], [[05-Digital-Forensics/Theory/03-linux-cli\|Linux CLI]], [[05-Digital-Forensics/Theory/04_steganography\|04_steganography]], [[05-Digital-Forensics/Theory/05_Cracking-ZIP-Files\|ZIP Cracking]] |
-| **06-Dark-Web-Operations**      | Not Started     |                                                                                                                                                                                                                                                                                                                                |
+| Module | Status | Key Files |
+|--------|--------|-----------|
+| **01-OSINT** | ✅ **COMPLETED** | [Introduction](01-OSINT/Theory/01_introduccion.md), [Intelligence Cycle](01-OSINT/Theory/02_inteligence_cycle.md), [Online Security](01-OSINT/Theory/03_Securing_Yourself_Online.md), [Tools & Services](01-OSINT/Theory/04_Tools_and_Services.md), [Course Capstone Lab](01-OSINT/Labs/Course%20Capstone.md) |
+| **02-Vulnerability-Management** | Not Started | |
+| **03-Threat-Hunting** | Not Started | |
+| **04-Network-Analysis** | Not Started | |
+| **05-Digital-Forensics** | ✅ **COMPLETED** | [Introduction](05-Digital-Forensics/Theory/01-introduction.md), [Evidence](05-Digital-Forensics/Theory/02-digital-evidence.md), [Linux CLI](05-Digital-Forensics/Theory/03-linux-cli.md), [Steganography](05-Digital-Forensics/Theory/04_steganography.md), [ZIP Cracking](05-Digital-Forensics/Theory/05_cracking-zip-files.md) |
+| **06-Dark-Web-Operations** | Not Started | |
 
 ---
 
