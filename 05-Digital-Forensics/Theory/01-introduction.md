@@ -15,13 +15,13 @@ Digital forensics is the disciplined practice of collecting, preserving, analyzi
 1) What is digital forensics
 - Definition: investigation, preservation, analysis and presentation of digital evidence with integrity and auditability.
 
-## Executive summary (SOC-focused)
+## Executive summary 
 
 Digital forensics collects and validates digital evidence for investigations and legal use. In SOC operations, focus on quick, reproducible artifact capture (memory, critical logs, targeted files) and maintain integrity (hashes, chain-of-custody). Correlate findings with SIEM/EDR to expand scope and inform containment.
 
 ---
 
-## Student-style notes (concise)
+## Notes 
 
 - Definition: digital forensics = preserve → analyze → present evidence with integrity.
 - Main types: Computer (disk/MFT), Network (pcap, DNS, proxy), Memory (RAM dumps), Mobile (phone images).

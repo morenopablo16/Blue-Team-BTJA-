@@ -1,12 +1,23 @@
 # 🛡️ Security Blue Team Junior Analyst (BTJA) Portfolio
 
-> **Practical cybersecurity skills showcase for the BTJA certification**
+> 🎉 **BTJA CERTIFICATION ACHIEVED - September 2025** 🏆
 
-[![Security Blue Team](https://img.shields.io/badge/Certification-BTJA-blue)](https://www.securityblue.team/btja)
+[![Security Blue Team](https://img.shields.io/badge/Certification-BTJA%20ACHIEVED-green)](https://www.securityblue.team/btja)
 [![Obsidian](https://img.shields.io/badge/Tool-Obsidian-purple)](https://obsidian.md/)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-September%202025-orange)](README.md)
 
 ---
+
+## 🏆 CERTIFICATION ACHIEVED!
+**Blue Team Junior Analyst (BTJA)** certification successfully completed on **September 27, 2025**.
+
+This portfolio demonstrates practical defensive security skills across:
+- ✅ OSINT & Intelligence Gathering
+- ✅ Vulnerability Assessment & Management  
+- ✅ Digital Forensics & Incident Response
+- ✅ Network Analysis & Monitoring
+- ✅ Dark Web Operations & Threat Intelligence
+- Ready for SOC Analyst Level 1 positions
 
 ## 🎯 Portfolio Overview
 
@@ -136,8 +147,8 @@ This repository tracks progress toward the **Blue Team Junior Analyst (BTJA)** c
 
 ---
 
-*Created by: Your Name*  
-*Last Updated: September 25, 2025*
+*Created by: Pablo Moreno*  
+*BTJA Certification Achieved: September 27, 2025*
 
 ---
 

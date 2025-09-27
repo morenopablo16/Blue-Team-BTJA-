@@ -1,7 +1,13 @@
 # 🛡️ BTJA Dashboard - Security Blue Team Junior Analyst
 
-> **Start Date:** 2025-09-25
+> 🎉 **CERTIFICACIÓN BTJA CONSEGUIDA** - Completado el 2025-09-27  
+> **Start Date:** 2025-09-20
 
+---
+
+## 🏆 **CERTIFICATION STATUS: ACHIEVED!**
+**Blue Team Junior Analyst (BTJA)** - Security Blue Team  
+**Completion Date:** September 27, 2025  
 ---
 
 ## 🎯 Quick Navigation
@@ -25,11 +31,11 @@
 | Module | Status | Key Files |
 |--------|--------|-----------|
 | **01-OSINT** | ✅ **COMPLETED** | [Introduction](../01-OSINT/Theory/01_introduccion.md), [Intelligence Cycle](../01-OSINT/Theory/02_inteligence_cycle.md), [Online Security](../01-OSINT/Theory/03_Securing_Yourself_Online.md), [Tools & Services](../01-OSINT/Theory/04_Tools_and_Services.md), [Course Capstone Lab](../01-OSINT/Labs/Course%20Capstone.md) |
-| **02-Vulnerability-Management** | Not Started | |
-| **03-Threat-Hunting** | Not Started | |
-| **04-Network-Analysis** | Not Started | |
+| **02-Vulnerability-Management** | ✅ **COMPLETED** | [Introduction](../02-Vulnerability-Management/Theory/01_introduction.md), [Testing Environment](../02-Vulnerability-Management/Theory/02_testing_enviroment.md), [Vulnerability Scanning](../02-Vulnerability-Management/Theory/03_vulnerability_scanning.md), [Course Capstone Lab](../02-Vulnerability-Management/Labs/Course%20Capstone.md) |
+| **03-Threat-Hunting** | ✅ **COMPLETED** | [Introduction](../03-Threat-Hunting/Theory/01_introduction.md), [Hunting Methodology](../03-Threat-Hunting/Theory/02_hunting_methodology.md), [IOC Development](../03-Threat-Hunting/Theory/03_ioc_development.md), [Course Capstone Lab](../03-Threat-Hunting/Labs/Course%20Capstone.md) |
+| **04-Network-Analysis** | ✅ **COMPLETED** | [Introduction](../04-Network-Analysis/Theory/01_introduction.md), [Network Devices](../04-Network-Analysis/Theory/02_Network_Devices.md), [Wireshark](../04-Network-Analysis/Theory/03_Wireshark.md), [TCPDump](../04-Network-Analysis/Theory/04_TCPDump.md), [Course Capstone](../04-Network-Analysis/Labs/Course%20Capstone.md) |
 | **05-Digital-Forensics** | ✅ **COMPLETED** | [Introduction](../05-Digital-Forensics/Theory/01-introduction.md), [Evidence](../05-Digital-Forensics/Theory/02-digital-evidence.md), [Linux CLI](../05-Digital-Forensics/Theory/03-linux-cli.md), [Steganography](../05-Digital-Forensics/Theory/04_steganography.md), [ZIP Cracking](../05-Digital-Forensics/Theory/05_cracking-zip-files.md) |
-| **06-Dark-Web-Operations** | Not Started | |
+| **06-Dark-Web-Operations** | ✅ **COMPLETED** | [Introduction](../06-Dark-Web-Operations/Theory/01_introduction.md), [Good Guys](../06-Dark-Web-Operations/Theory/02_Good_Guys.md), [Bad Guys](../06-Dark-Web-Operations/Theory/03_Bad_Guys.md), [Accessing Dark Web](../06-Dark-Web-Operations/Theory/04_Accessing_Dark%20Web.md), [Course Capstone](../06-Dark-Web-Operations/Labs/Course%20Capstone.md) |
 
 ---
 
@@ -89,7 +95,7 @@
 
 ---
 
-*Last Updated: September 26, 2025* - ✅ **OSINT Module Completed**
+*Last Updated: September 27, 2025* - 🎉 **BTJA CERTIFICATION ACHIEVED!**
 
 ---
 tags: #dashboard #btja #blueteam 
